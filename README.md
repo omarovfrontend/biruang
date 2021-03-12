@@ -1,4 +1,4 @@
 **biruang**
 Верстка макета biruang
 
-Demo -  https://omarov-frontend.github.io/biruang/
+Demo -  https://omarovfrontend.github.io/biruang/
